@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jucaravetto
 - 👀 I’m interested in Java, HTML, CSS, JavaScript, Python and etc.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning React and practicing Angular.
 - 💞️ I’m looking to collaborate on the learning process with my team at the bootcamp!
 - 📫 How to reach me: julianna.caravetto@gmail.com
 
