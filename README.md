@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jucaravetto
-- 👀 I’m interested in Java, HTML, CSS, JavaScript, Python and etc.
-- 🌱 I’m currently learning React and practicing Angular.
-- 💞️ I’m looking to collaborate on the learning process with my team at the bootcamp!
+- 👀 I’m interested in Python, QA and Data Science.
+- 🌱 I’m currently learning Selenium and Automation.
+- 💞️ I’m looking to improve myself everyday!
 - 📫 How to reach me: julianna.caravetto@gmail.com
 
 <!---
