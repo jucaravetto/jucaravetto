@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jucaravetto
 - 👀 I’m interested in Python, QA and Data Science.
-- 🌱 I’m currently learning Selenium and Automation.
+- 🌱 I’m currently learning Selenium and Automations.
 - 💞️ I’m looking to improve myself everyday!
 - 📫 How to reach me: julianna.caravetto@gmail.com
 
